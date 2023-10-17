@@ -67,7 +67,7 @@
 .bannar {
     width: 100%;
     height: 600px;
-    background: url(/assets/image/new.jpg);
+    background: url(../image/new.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ form .active {
 .fun {
     width: 100%;
     height: 290px;
-    background: url(/assets/image/pyramind\ edit.jpg);
+    background: url(../image/pyramind\ .jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -239,7 +239,7 @@ form .active {
 .searchFlight {
     width: 100%;
     height: 300px;
-    background: url(/assets/image/editflight.jpg);
+    background: url(../image/editflight.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -417,7 +417,7 @@ form .active {
 .estimate {
     width: 100%;
     height: 300px;
-    background: url(/assets/image/estimate.jpg);
+    background: url(../image/estimate.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -552,7 +552,7 @@ font-size: 92%;
     width: 100%;
     height: 500px;
    
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/assets/image/flighttakeoff.jpg) ;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/flighttakeoff.jpg) ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
