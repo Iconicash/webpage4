@@ -121,7 +121,9 @@ form .active {
     background-color: #f8132e;
     color: #fff;
 }
-
+.searchForm ::placeholder{
+    color: #000000;
+}
 .searchForm label {
     display: none;
 }
@@ -197,7 +199,7 @@ form .active {
 .fun .shape ul li {
     width: 140px;
     height: 130px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.4);
     margin-top: 100px;
     clip-path: polygon(0 0, 100% 1%, 100% 100%, 50% 93%, 0 100%);
     font-size: 50px;
